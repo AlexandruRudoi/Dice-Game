@@ -26,4 +26,4 @@
 
 ---
 
-<p align="center"><em>2021 &copy; Dice Game, Alin Neagu</em></p>
+<p align="center"><em>&copy; Alexandru Rudoi</em></p>
